@@ -45,7 +45,7 @@ async function make_request(url: string): Promise<string | null> {
 const server = new McpServer(
   {
     name: "abn-mcp-server",
-    version: "0.0.1"
+    version: "0.0.3"
   },
   {
     capabilities: {
