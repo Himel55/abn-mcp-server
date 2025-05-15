@@ -1,6 +1,6 @@
 {
   "name": "@himel55/abn-mcp-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "MCP Server for interacting with ABN API (JSON)",
   "license": "MIT",
   "author": "Himel Patel",
